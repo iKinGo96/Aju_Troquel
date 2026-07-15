@@ -1,0 +1,15 @@
+# Temporales del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Archivos locales de clasp / secretos
+.clasp.json
+clasprc.json
+.env
+.env.*
+
+# Carpetas de trabajo local
+work/
+node_modules/
